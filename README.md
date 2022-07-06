@@ -1,10 +1,10 @@
-# Hi, I'm Wilson! :D
+# Hi, I'm Lucas! :D 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WilsonRU)](https://github.com/WilsonRU)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucaslima18)](https://github.com/lucaslima18)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-m-bba835141/)](https://www.linkedin.com/in/wilson-m-bba835141/)
 
 ### About me
-I'm a {backend, frontend} guy but I'm formally known as a research software engineer 
+I'm a Backend guy but I'm formally known as a research software engineer 
 
 My specialties include..
 
@@ -12,11 +12,12 @@ My specialties include..
     - Problem-solving,
     - Responsive design principles
 
-- :scroll: PHP, JavaScript, Ruby, Python, C and C++
-- :hammer_and_pick: Laravel, Angular, Rails, Svelte
+- :scroll: Python, JavaScript
+- :hammer_and_pick: Django, Django rest framework, Flask, FastAPI, NodeJs, Express, NestJs
 - :wrench: Docker
+- :wrench: PostgreSQL, MySql, MongoDB, Redis
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=WilsonRU)
+![Profile View Counter](https://komarev.com/ghpvc/?username=lucaslima18)
 
 #### My Stats :chart_with_upwards_trend::
 <div>
