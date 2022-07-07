@@ -28,3 +28,4 @@ My specialties include..
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
+![Snake animation](https://github.com/lucaslima18/lucaslima18/blob/output/github-contribution-grid-snake.svg)
