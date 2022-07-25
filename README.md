@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-m-bba835141/)](https://www.linkedin.com/in/lucas-amorim-de-lima-ara%C3%BAjo-b09691173/)
 
 ### About me
-I'm a Backend guy but I'm formally known as a research software engineer 
+I'm a backend developer, during my career I spent a lot of time developing chatbots where I had a lot of contact with python and JavaScript, and I ended up developing these skills for my current job as a backend developer. I'm always studying to improve my knowledge and skills as a developer, with a view to one day being an expert in my role.
 
 My specialties include..
 
