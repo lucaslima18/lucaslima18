@@ -8,9 +8,11 @@ I'm a backend developer, during my career I spent a lot of time developing chatb
 
 My specialties include..
 
-    - Quickly learning new skills and programming languages,
-    - Problem-solving,
-    - Responsive design principles
+    - good communication
+    - think outside the box
+    - critical thinking about my work and that of my colleagues
+    - good at working in teams
+    - fast and efficient learning about new technologies and processes
 
 - :scroll: Python, JavaScript
 - :hammer_and_pick: Django, Django rest framework, Flask, FastAPI, NodeJs, Express, NestJs
