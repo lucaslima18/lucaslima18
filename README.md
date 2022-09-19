@@ -14,7 +14,7 @@ My specialties include..
     - good at working in teams
     - fast and efficient learning about new technologies and processes
 
-- :scroll: Python, JavaScript
+- :scroll: Python, JavaScript, typescript
 - :hammer_and_pick: Django, Django rest framework, Flask, FastAPI, NodeJs, Express, NestJs
 - :wrench: Docker
 - :wrench: PostgreSQL, MySql, MongoDB, Redis
