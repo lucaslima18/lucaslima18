@@ -5,7 +5,7 @@
     <td width="45%">
        <h2> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c5eGdjbjdrcnJrM2R3emMzdzBvOTFjeDVlemwzNG51N25oNXZvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fbSR0cD5tisRXeOdPa/giphy.gif" width="40px">&nbsp;About Me </h2>
        <ul>
-        <li> &nbsp; Working as Software Engineer At <a href="https://www.linkedin.com/company/senaialagoas/mycompany/">SENAI</a></li>
+        <li> &nbsp; Working as Software Engineer At Juntos Somos Mais
         <li>📚 &nbsp; My main languages are <b>Python</b> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> and <b>TypeScript</b> <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> </li>
         <li>💬 &nbsp; Ask me about anything, I love to answer! </li>
         <li>🤔 &nbsp; Interested in Web Development, DevOps and Linux Systems</li>
