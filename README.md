@@ -71,6 +71,7 @@
       <p>Please don't hesitate to contact me 
         <br>if you need further information or help.
       </p>
+       <p>And visite my blog! https://lucaslima18.github.io/kame-house-blog/</p>
       <br>
       <a href="https://www.instagram.com/lucas_lima.18/" target="_blank">
       <img align="center" alt="Lucas Amorim | Instagram" width="30em" src="https://img.icons8.com/nolan/96/instagram-new.png" />
